@@ -28,11 +28,11 @@ div#logo {
   background: aqua;
 }
 
-div#logo h1 {
+#logo h1 {
   font-family: 'Clicker Script', cursive;
 }
 
-div#logo h2 {
+#logo h2 {
   font-family: 'Elsie Sqash Caps', cursive;
 }
 

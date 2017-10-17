@@ -24,14 +24,14 @@ figcaption {
 }
 
 /* ID Selectors */
-#logo {
+div#logo {
   background: aqua;
 }
 
-#logo h1 {
+div#logo h1 {
   font-family: 'Clicker Script', cursive;
 }
 
-#logo h2 {
+div#logo h2 {
   font-family: 'Elsie Sqash Caps', cursive;
 }
